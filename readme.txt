@@ -1,16 +1,16 @@
 
 Simple University Registration and examination management/tracking system(web app).
 
-Programming Language: PHP (learn more on https://www.sourcecodester.com/category/language/php)
+Programming Language: PHP 
 
 
 I dedicate this to as I empower the beginners in software development, 
 I took the initiative to start my carrier as a software developer first by learning the basics of software 
 development and came up with just a simple app for my university allowing an Admin to login using hard coded credentials and perform the CRUD functionalities, 
 also a Head of Department(HOD) as a user, that is already registered into the system by the Admin, 
-to login using credentials specified by the Admin, to perform simply basic functionalities like enter students’ marks(assessment), view the marks
+to login using credentials specified by the Admin, to perform simply basic functionalities like enter studentsâ€™ marks(assessment), view the marks
 and similarly another user like the Academic Registrar(AR) to login and register a student,
-view registered students and view students’ marks that have been entered by the HOD.
+view registered students and view studentsâ€™ marks that have been entered by the HOD.
 
 I developed it using php, MySQLi, html, css and bootstrap!
 
