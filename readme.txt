@@ -1,5 +1,5 @@
 
-Simple Student registration and examination management/tracking system(web app).
+Simple Student registration and examination tracking system(web app).
 
 Programming Language: PHP 
 
